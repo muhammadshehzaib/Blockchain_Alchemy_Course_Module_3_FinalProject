@@ -1,0 +1,41 @@
+.block-container {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.toggle-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.toggle-button:hover {
+    background-color: #0056b3;
+}
+
+.block-details {
+    margin-top: 10px;
+}
+
+.block-details h2 {
+    margin-bottom: 10px;
+}
+
+.block-details p {
+    margin-bottom: 5px;
+}
+
+.block-details ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.block-details ul li {
+    margin-bottom: 5px;
+}
